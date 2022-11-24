@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: sample_table
+    description: "hogehoge"
+
+    columns:
+      - name: col1
+        description: hogehoge1
+
+      - name: col2
+        description: hogehoge2
